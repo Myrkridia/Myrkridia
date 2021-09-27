@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on anything related to the field above and to earth a better place
 
-- 📫 How to reach me ...
+- 📫 How to reach me ... shoot me a DM
 
 <!---
 Myrkridia/Myrkridia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
