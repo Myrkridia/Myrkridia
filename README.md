@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Myrkridia
 
-![image](https://user-images.githubusercontent.com/88998826/135728370-3ff7afe4-f741-49b3-bbde-c6a946f8974d.png)
 
+![metalslugxsupervehicle001neogeo16](https://user-images.githubusercontent.com/88998826/135728458-de696047-5d90-4a02-bb52-d43bb6162381.gif)
 
 
 - 👀 I’m interested in hacking/pentesting, bug bounty, and cryptography.
