@@ -27,7 +27,7 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 ![MS-monkey](https://user-images.githubusercontent.com/88998826/135733084-79dad75c-3c0d-4b23-bd14-af67d99a804c.gif)
 
-Can't sleep but will try.
+*Can't sleep but will try.*
 
 ![Nu-Sleep2](https://user-images.githubusercontent.com/88998826/135747222-b54d0fb4-547e-4c71-ba8e-0520d9a8c222.gif)
 
