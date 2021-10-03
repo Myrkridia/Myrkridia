@@ -4,7 +4,8 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 - Hacking/Pentesting
 
-![ms-Scientist](https://user-images.githubusercontent.com/88998826/135746032-c83883e2-2541-48bd-9e9d-5758d44f815b.gif)
+![ms-Scientist](https://user-images.githubusercontent.com/88998826/135746032-c83883e2-2541-48bd-9e9d-5758d44f815b.gif) 
+
 
 - Bug Bounties
 
@@ -22,7 +23,7 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 🔧Looking to collaborate on anything related to the field above to make earth a better place. ![ms-camping](https://user-images.githubusercontent.com/88998826/135746214-23309b2a-f18d-4a08-b881-73125f2d3e0a.gif)
 
-📡 How to reach me ... shoot me a DM
+📡 How to reach me ... shoot me a DM: myrkridia@protonmail.com
 
 ![MS-monkey](https://user-images.githubusercontent.com/88998826/135733084-79dad75c-3c0d-4b23-bd14-af67d99a804c.gif)
 
