@@ -2,16 +2,15 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 -
 👀 I’m interested in: 
 
-- Hacking/Pentesting
+- **Hacking/Pentesting**
 
 ![ms-Scientist](https://user-images.githubusercontent.com/88998826/135746032-c83883e2-2541-48bd-9e9d-5758d44f815b.gif) 
 
-
-- Bug Bounties
+- **Bug Bounties**
 
 ![ms-Tarmashoot](https://user-images.githubusercontent.com/88998826/135745500-f3d2bdef-380b-4950-bab4-691d8fcaad5a.gif) ![ms-Maggot](https://user-images.githubusercontent.com/88998826/135745548-910d2ef4-a7b3-4bee-bbfb-0920cf077a1a.gif)
 
-- Cryptography
+- **Cryptography**
 
 ![ms-martian](https://user-images.githubusercontent.com/88998826/135732893-cefafc63-5a9f-4ba9-8e53-759aed7db429.gif)
 -
