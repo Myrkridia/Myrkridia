@@ -2,7 +2,7 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 -
 👀 I’m interested in: Hacking for cyber security
 
-![ms-samurai](https://user-images.githubusercontent.com/88998826/136464912-513aa172-2bf3-4460-8e3f-e8d230dbc0e2.png)
+![ms-samurai](https://user-images.githubusercontent.com/88998826/136473827-10b14f73-ca63-43de-b787-afa61f5f518a.png)
 
 - **Pentesting**
 
@@ -14,13 +14,12 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 - **Cryptanalysis**
 
-![ms-martian](https://user-images.githubusercontent.com/88998826/135732893-cefafc63-5a9f-4ba9-8e53-759aed7db429.gif)
+![ms-Mars_people_(blanco)](https://user-images.githubusercontent.com/88998826/136474452-550ff2d2-ff09-4875-a14b-7912916a1cc9.gif)
+
+![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) I’m currently hammering the anvil daily on Tryhackme and Cryptohack ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) 
 -
 
-![fightclub](https://user-images.githubusercontent.com/88998826/136472816-f7fe92ff-a476-4267-9061-7d41ff5ac2fa.png) I’m currently hammering the anvil daily on Tryhackme and Cryptohack ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png)
--
-
-🐛 Learning Bug Bounty, HTB academy, and courses from udemy and many other resources. ![Fifi](https://user-images.githubusercontent.com/88998826/135733311-dcb88a32-bbfb-4799-b68c-5d02f5f0824e.gif)
+🐛 Learning Bug Bounty, HTB academy, and courses from udemy and many other resources. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
 
 ![Debian](https://user-images.githubusercontent.com/88998826/136467338-24587f47-8337-4e69-8f79-514e6b60dd50.png) Familiar with multiple debian-based distros. Currently running Parrot Sec through VMware and I think virtual machines are the way to go. Anyway creative way to use your tools the correct way, for the right purpose, is always the right way. 
 
@@ -30,15 +29,24 @@ I am always willing to learn with an open mind about useful code and helpful too
 
 
 
-
 📡 How to reach me ... shoot me a DM: myrkridia@protonmail.com ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
 
 
-![MS-monkey](https://user-images.githubusercontent.com/88998826/135733084-79dad75c-3c0d-4b23-bd14-af67d99a804c.gif)
+
 
 *Can't sleep but will try.*
 
 ![Nu-Sleep2](https://user-images.githubusercontent.com/88998826/135747222-b54d0fb4-547e-4c71-ba8e-0520d9a8c222.gif)
+
+
+Here's a painting I did in 2020
+-
+![IMG_6937](https://user-images.githubusercontent.com/88998826/136474847-df17b7c7-1049-4149-9e92-df64938aca98.jpg)
+
+
+
+
+
 
 
 <!---
