@@ -21,15 +21,14 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 🐛 Learning Bug Bounty, HTB academy, and courses from udemy and many other resources. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
 
-![Debian](https://user-images.githubusercontent.com/88998826/136467338-24587f47-8337-4e69-8f79-514e6b60dd50.png) Familiar with multiple debian-based distros. Currently running Parrot Sec through VMware and I think virtual machines are the way to go. Anyway creative way to use your tools the correct way, for the right purpose, is always the right way. 
+ Familiar with multiple debian-based distros. Currently running Parrot Sec through VMware and I think virtual machines are the way to go. Anyway creative way to use your tools the correct way, for the right purpose, is always the right way. 
 
 🔧Looking to collaborate on anything related to the field above to make earth a better place. ![ms-camping](https://user-images.githubusercontent.com/88998826/135746214-23309b2a-f18d-4a08-b881-73125f2d3e0a.gif)
 I am always willing to learn with an open mind about useful code and helpful tools to improve my toolbox and knowledge.
 
 
 
-
-📡 How to reach me ... shoot me a DM: myrkridia@protonmail.com ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
+![stinky-cheese-man](https://user-images.githubusercontent.com/88998826/137439570-592ec6d5-ee9e-4b1f-9e28-493f490cc154.gif) How to reach me ... shoot me a DM: myrkridia@protonmail.com ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
 
 
 
