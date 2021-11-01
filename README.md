@@ -16,7 +16,7 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 ![ms-Mars_people_(blanco)](https://user-images.githubusercontent.com/88998826/136474452-550ff2d2-ff09-4875-a14b-7912916a1cc9.gif)
 
-![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) I’m currently hammering the anvil daily on Tryhackme and Cryptohack ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) 
+![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) I’m currently hammering the anvil daily on Tryhackme ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) 
 -
 
 🐛 Learning Bug Bounty, HTB academy, and courses from udemy and many other resources. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
