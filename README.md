@@ -24,7 +24,7 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
  Familiar with multiple debian-based distros. Currently running Parrot Sec through VMware and I think virtual machines are the way to go. Anyway creative way to use your tools the correct way, for the right purpose, is always the right way. 
 
 🔧Looking to collaborate on anything related to the field above to make earth a better place. ![ms-camping](https://user-images.githubusercontent.com/88998826/135746214-23309b2a-f18d-4a08-b881-73125f2d3e0a.gif)
-I am always willing to learn with an open mind about useful code and helpful tools to improve my toolbox and knowledge.
+I am always willing to learn with an open mind about useful code and helpful tools to improve the world and the lives of others.
 
 
 
