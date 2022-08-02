@@ -21,11 +21,22 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 🐛 ALWAYS learning from resources from the web and staying ontop of new threats and vulnerabilities. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
 
- Familiar with multiple debian-based distros. Was running Parrot Sec through VMware and I think virtual machines are the way to go; but went back to KALI.
+Preferred language: Python3
+ 
+![17xo](https://user-images.githubusercontent.com/88998826/182360451-8ec8620c-5fc1-444a-b778-c7b2e8297ab6.gif)
 
+
+ Familiar with multiple debian-based distros. Was running Parrot Sec through VMware and I think virtual machines are the way to go; but went back to KALI.
+ 
+ The infinite cycle of install VM -> delete VM -> reinstall VM
+ 
+ ![288aed9cf62192b5dba11fbd6379757e_w200](https://user-images.githubusercontent.com/88998826/182358560-937c1b2c-a9c7-4cef-af2b-02cd23e1ccde.gif)
+
+ 
 🔧Looking to collaborate on anything related to the field above to make earth a better place. ![ms-camping](https://user-images.githubusercontent.com/88998826/135746214-23309b2a-f18d-4a08-b881-73125f2d3e0a.gif)
 I am always willing to learn with an open mind about useful code and helpful tools to improve the world and the lives of others.
 
+![original-1](https://user-images.githubusercontent.com/88998826/182357870-5b05cf18-aa52-4cf2-9480-25bdf15c02e4.gif)
 
 
 ![stinky-cheese-man](https://user-images.githubusercontent.com/88998826/137439570-592ec6d5-ee9e-4b1f-9e28-493f490cc154.gif) How to reach me ... shoot me a DM: myrkridia@protonmail.com ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
