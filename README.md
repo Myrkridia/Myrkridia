@@ -19,7 +19,7 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) I’m currently hammering the anvil daily on Tryhackme 2021 - Present ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) 
 -
 
-🐛 ALWAYS learning on Tryhackme, HTB academy, courses from udemy, and all other amazing resources. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
+🐛 ALWAYS learning from resources from the web and staying ontop of new threats and vulnerabilities. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
 
  Familiar with multiple debian-based distros. Was running Parrot Sec through VMware and I think virtual machines are the way to go; but went back to KALI.
 
