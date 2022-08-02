@@ -19,9 +19,9 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) I’m currently hammering the anvil daily on Tryhackme 2021 - Present ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) 
 -
 
-🐛 Learning Bug Bounty, HTB academy, and courses from udemy and many other resources. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
+🐛 ALWAYS learning on Tryhackme, HTB academy, courses from udemy, and all other amazing resources. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
 
- Familiar with multiple debian-based distros. Currently running Parrot Sec through VMware and I think virtual machines are the way to go. Anyway creative way to use your tools the correct way, for the right purpose, is always the right way. 
+ Familiar with multiple debian-based distros. Was running Parrot Sec through VMware and I think virtual machines are the way to go; but went back to KALI. Anyway creative way to use your tools the correct way, for the right purpose, is always the right way. 
 
 🔧Looking to collaborate on anything related to the field above to make earth a better place. ![ms-camping](https://user-images.githubusercontent.com/88998826/135746214-23309b2a-f18d-4a08-b881-73125f2d3e0a.gif)
 I am always willing to learn with an open mind about useful code and helpful tools to improve the world and the lives of others.
