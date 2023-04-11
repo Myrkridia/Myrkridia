@@ -39,7 +39,7 @@ I am always willing to learn with an open mind about useful code and helpful too
 ![original-1](https://user-images.githubusercontent.com/88998826/182357870-5b05cf18-aa52-4cf2-9480-25bdf15c02e4.gif)
 
 
-![stinky-cheese-man](https://user-images.githubusercontent.com/88998826/137439570-592ec6d5-ee9e-4b1f-9e28-493f490cc154.gif) How to reach me ... shoot me a DM: myrkridia@protonmail.com ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
+![stinky-cheese-man](https://user-images.githubusercontent.com/88998826/137439570-592ec6d5-ee9e-4b1f-9e28-493f490cc154.gif) How to reach me ... shoot me a DM: https://twitter.com/goneraiding ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
 
 
 
