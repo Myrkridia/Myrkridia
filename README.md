@@ -1,6 +1,7 @@
 Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.githubusercontent.com/88998826/135731766-502ccff0-7f93-4271-8ca1-19076476ed21.gif)
 -
-👀 I’m interested in cyber security ![ms-samurai](https://user-images.githubusercontent.com/88998826/136473827-10b14f73-ca63-43de-b787-afa61f5f518a.png)
+
+**I’m interested in cyber security** ![ms-samurai](https://user-images.githubusercontent.com/88998826/136473827-10b14f73-ca63-43de-b787-afa61f5f518a.png)
 
 
 
@@ -16,7 +17,8 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 ![ms-Mars_people_(blanco)](https://user-images.githubusercontent.com/88998826/136474452-550ff2d2-ff09-4875-a14b-7912916a1cc9.gif)
 
-![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) Hammered the anvil daily on Tryhackme 2021 - 2023 ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) 
+![MS-monkey](https://github.com/Myrkridia/Myrkridia/assets/88998826/edc86ef1-4eeb-4c10-a2f1-839797f6baf0)
+Hammered the anvil daily on Tryhackme 2021 - 2023  ![MS-monkey](https://github.com/Myrkridia/Myrkridia/assets/88998826/fae796b3-060c-4f0c-ad96-587e8af37109)
 -
 
 - Turned an old comp into a hacking dojo and tool testing grounds.![ms-hadoken](https://github.com/Myrkridia/Myrkridia/assets/88998826/982dcb12-7a30-4bed-a1af-b095441a5a02)
@@ -30,7 +32,7 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 - Preferred language: Python3
  
-![17xo](https://user-images.githubusercontent.com/88998826/182360451-8ec8620c-5fc1-444a-b778-c7b2e8297ab6.gif)
+![cat-nyan-cat](https://github.com/Myrkridia/Myrkridia/assets/88998826/ffc8c5c8-bcab-4750-9d0b-9cb12416c641)
 
 
  Familiar with multiple debian-based distros. Running Parrot Sec & Kali; VM & bare metal are both cool.
@@ -46,6 +48,8 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 
 How to reach me ... shoot me a DM: https://twitter.com/goneraiding ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
+
+![24224](https://github.com/Myrkridia/Myrkridia/assets/88998826/43296914-655c-47dc-a0c3-6bcbb85020f8)
 
 
 
