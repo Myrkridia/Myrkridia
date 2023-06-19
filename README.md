@@ -1,8 +1,8 @@
 Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.githubusercontent.com/88998826/135731766-502ccff0-7f93-4271-8ca1-19076476ed21.gif)
 -
-👀 I’m interested in: Hacking for cyber security
+👀 I’m interested in cyber security ![ms-samurai](https://user-images.githubusercontent.com/88998826/136473827-10b14f73-ca63-43de-b787-afa61f5f518a.png)
 
-![ms-samurai](https://user-images.githubusercontent.com/88998826/136473827-10b14f73-ca63-43de-b787-afa61f5f518a.png)
+
 
 - **Pentesting**
 
@@ -16,30 +16,33 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 ![ms-Mars_people_(blanco)](https://user-images.githubusercontent.com/88998826/136474452-550ff2d2-ff09-4875-a14b-7912916a1cc9.gif)
 
-![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) I’m currently hammering the anvil daily on Tryhackme 2021 - Present ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) 
+![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) Hammered the anvil daily on Tryhackme 2021 - 2023 ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) 
 -
 
-🐛 ALWAYS learning from resources from the web and staying ontop of new threats and vulnerabilities. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
+- Turned an old comp into a hacking dojo and tool testing grounds.
 
-Preferred language: Python3
+- Currently learning about advanced methods and unconventional strategies to break stuff.
+
+- ALWAYS studying resources from the web and staying ontop of new threats and vulnerabilities. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
+
+- Preferred language: Python3
  
 ![17xo](https://user-images.githubusercontent.com/88998826/182360451-8ec8620c-5fc1-444a-b778-c7b2e8297ab6.gif)
 
 
- Familiar with multiple debian-based distros. Was running Parrot Sec through VMware and I think virtual machines are the way to go; but went back to KALI.
+ Familiar with multiple debian-based distros. Running Parrot Sec & Kali; VM & bare metal are both cool.
  
  The infinite cycle of install VM -> delete VM -> reinstall VM
  
  ![288aed9cf62192b5dba11fbd6379757e_w200](https://user-images.githubusercontent.com/88998826/182358560-937c1b2c-a9c7-4cef-af2b-02cd23e1ccde.gif)
 
  
-🔧Looking to collaborate on anything related to the field above to make earth a better place. ![ms-camping](https://user-images.githubusercontent.com/88998826/135746214-23309b2a-f18d-4a08-b881-73125f2d3e0a.gif)
-I am always willing to learn with an open mind about useful code and helpful tools to improve the world and the lives of others.
+🔧Looking to collaborate on anything related to the field above to make earth a better place. ![ms-camping](https://user-images.githubusercontent.com/88998826/135746214-23309b2a-f18d-4a08-b881-73125f2d3e0a.gif) I am always willing to learn with an open mind about useful code and helpful tools to improve the world and the lives of others.
 
 ![original-1](https://user-images.githubusercontent.com/88998826/182357870-5b05cf18-aa52-4cf2-9480-25bdf15c02e4.gif)
 
 
-![stinky-cheese-man](https://user-images.githubusercontent.com/88998826/137439570-592ec6d5-ee9e-4b1f-9e28-493f490cc154.gif) How to reach me ... shoot me a DM: https://twitter.com/goneraiding ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
+How to reach me ... shoot me a DM: https://twitter.com/goneraiding ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
 
 
 
