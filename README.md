@@ -19,9 +19,12 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) Hammered the anvil daily on Tryhackme 2021 - 2023 ![pd_040215_tachikoma](https://user-images.githubusercontent.com/88998826/135747444-b486d062-7159-4009-ba4f-3a3fbae43f75.png) 
 -
 
-- Turned an old comp into a hacking dojo and tool testing grounds.
+- Turned an old comp into a hacking dojo and tool testing grounds.![ms-hadoken](https://github.com/Myrkridia/Myrkridia/assets/88998826/982dcb12-7a30-4bed-a1af-b095441a5a02)
+![MS death2](https://github.com/Myrkridia/Myrkridia/assets/88998826/84d9e29c-1cf6-41db-a6a6-9fdc3af25ab1)
 
-- Currently learning about advanced methods and unconventional strategies to break stuff.
+
+- Currently learning about advanced methods and unconventional strategies to break stuff. ![ms-Tarma_double_HMG](https://github.com/Myrkridia/Myrkridia/assets/88998826/05fdcb07-f214-407f-afa7-4fa306724f0a)
+
 
 - ALWAYS studying resources from the web and staying ontop of new threats and vulnerabilities. ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
 
