@@ -40,7 +40,7 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 **Purpose** ![ezgif-2-68aa379a92](https://github.com/Myrkridia/Myrkridia/assets/88998826/6235cb1f-3947-443e-b1de-cf601d5d78ca)
 --
 
-Looking to collaborate on anything related to the field above to make earth a better place. Always willing to learn with an open mind about to improve the world and the lives of others. 
+Looking to collaborate on anything related to the field above to make earth a better place. Always willing to learn with an open mind about anything to improve the world and the lives of others. 
 
 
 ![original-1](https://user-images.githubusercontent.com/88998826/182357870-5b05cf18-aa52-4cf2-9480-25bdf15c02e4.gif)
