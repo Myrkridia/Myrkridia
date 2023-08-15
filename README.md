@@ -50,7 +50,7 @@ Looking to collaborate on anything related to the field above to make earth a be
 ![original-1](https://user-images.githubusercontent.com/88998826/182357870-5b05cf18-aa52-4cf2-9480-25bdf15c02e4.gif)
 
 
-How to reach me ... shoot me a DM: https://twitter.com/goneraiding ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
+How to reach me ... shoot me a DM: https://twitter.com/ANIMAL_MOTH3R ![soldier friends](https://user-images.githubusercontent.com/88998826/136473525-297d613d-93eb-4c87-aa76-8f307032aff8.png)
 
 ![24224](https://github.com/Myrkridia/Myrkridia/assets/88998826/43296914-655c-47dc-a0c3-6bcbb85020f8)
 
