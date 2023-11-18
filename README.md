@@ -21,7 +21,7 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 - Hammered the anvil daily on Tryhackme 2021 ~ 2022 ![ezgif-2-31e7b63b00](https://github.com/Myrkridia/Myrkridia/assets/88998826/1a48a574-4df3-4ff6-bd4d-fe53646ce091)
 
-- ALWAYS studying resources from the web and staying ontop of new threats and vulnerabilities; particular CVE's, malware, and various attacks. particularly interested in LOTL Attacks. 
+- ALWAYS studying resources from the web and staying ontop of new threats and vulnerabilities; particular CVE's, malware, and various attacks. Particularly interested in LOTL Attacks. 
  ![ms-Baboon](https://user-images.githubusercontent.com/88998826/136474582-e4807ef5-f377-4e79-b724-a88d5791bb2d.gif)
 
 - Preferred language: Python3 ![ezgif-1-fee3b1d3fe](https://github.com/Myrkridia/Myrkridia/assets/88998826/5ed1a8c5-8ebe-4ded-9e15-ec7ac10df85f)
@@ -34,6 +34,8 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
 
  Familiar with Windows, Mac, and multiple debian-based distros. Running Parrot Sec & Kali; VM & bare metal are both cool. ![ezgif-3-1517b36a1f](https://github.com/Myrkridia/Myrkridia/assets/88998826/bef0d8e0-743b-4aab-84ce-2b0bfde8d956)
+
+Familiarized black arch in 2023  ![Crono-Victory](https://github.com/Myrkridia/Myrkridia/assets/88998826/2c17773d-0d21-4104-9f10-d14810050e14)
 
  
  The infinite cycle of install VM -> delete VM -> reinstall VM ![ms-Breadmushroom](https://github.com/Myrkridia/Myrkridia/assets/88998826/0269863c-dfa9-4a33-8a13-377034a3a5a9)
