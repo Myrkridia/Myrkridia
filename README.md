@@ -35,7 +35,8 @@ Hi, I’m @Myrkridia ![Earthworm-Jim-His-Pants-Fall-Off](https://user-images.git
 
  Familiar with Windows, Mac, and multiple debian-based distros. Running Parrot Sec & Kali; VM & bare metal are both cool. ![ezgif-3-1517b36a1f](https://github.com/Myrkridia/Myrkridia/assets/88998826/bef0d8e0-743b-4aab-84ce-2b0bfde8d956)
 
-Familiarized black arch in 2023  ![Crono-Victory](https://github.com/Myrkridia/Myrkridia/assets/88998826/2c17773d-0d21-4104-9f10-d14810050e14)
+Familiarized black arch in 2023  ![Crash-Bandicoot](https://github.com/Myrkridia/Myrkridia/assets/88998826/0cd15fba-e0b9-4573-b508-2a4667f7e80f)
+
 
  
  The infinite cycle of install VM -> delete VM -> reinstall VM ![ms-Breadmushroom](https://github.com/Myrkridia/Myrkridia/assets/88998826/0269863c-dfa9-4a33-8a13-377034a3a5a9)
